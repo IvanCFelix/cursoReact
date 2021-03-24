@@ -1,0 +1,27 @@
+.card {
+    border: none;
+    border-radius: 8px;
+}
+
+.heroe-Card {
+    max-height: auto;
+    max-width: 520px;
+}
+
+.img{
+   width: 90%;
+  height: 160px;
+}
+
+.heroe-Card-Info {
+    padding-left: 0;
+    padding-right: 75px;
+}
+.heroe-Card-Info h1{
+    font-size: 23px;
+    color: whitesmoke;
+}
+.heroe-Card-Info p{
+    font-size: 13px;
+    color: whitesmoke;
+}
